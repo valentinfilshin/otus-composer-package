@@ -1,0 +1,12 @@
+{
+    "name": "valentin-filshin/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ValentinFilshin\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "require": {
+        "php" : ">=8.2"
+    }
+}

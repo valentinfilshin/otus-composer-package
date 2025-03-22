@@ -1,0 +1,7 @@
+# PhpStorm files
+*.iml
+.idea
+
+# Project files
+composer.lock
+vendor
